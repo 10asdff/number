@@ -1,6 +1,4 @@
-# German_Credit_Risk_Classification
-
-![ASD](https://d30pf83g3s2iw3.cloudfront.net/wp-content/uploads/2019/11/debit-vs-credit-card-holiday-shopping.gif)
+![](https://d30pf83g3s2iw3.cloudfront.net/wp-content/uploads/2019/11/debit-vs-credit-card-holiday-shopping.gif)
 
 
 
