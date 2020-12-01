@@ -29,7 +29,7 @@ The library requirements specific to some methods are:
  *	CatBoostClassifier
 
 ## Steps
- *	Data Understanding
+ *	DATA UNDERSTANDING
  *	Exploratory Data Analysis (EDA)
  *  OUTLIER HANDLING
  *	MISSING VALUE HANDLING
