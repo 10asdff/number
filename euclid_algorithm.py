@@ -15,7 +15,7 @@ while True:
     mod=largernumber%smallnumber
     print(largernumber,"=",smallnumber,".",division,"+",mod)
     if(mod<division):
-        print("-"*50)
+        print("-" * 50)
         print("OBEB : ",smallnumber)
         break
     largernumber=smallnumber
